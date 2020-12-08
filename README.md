@@ -17,7 +17,7 @@ pip install pygame
 ```
 
 ## Contents
-It is written in a file with name game.py containing both the game logic and required game configurations.
+It is written in a file with name SpaceX.py containing both the game logic and required game configurations.
 Along with that there are three more folders i.e. Assets consisting all game related images, players_image consisting player’s avatar and music containing all the sounds and music used.
 Finally it has a .gitignore file which contains the specific version of the pygame with which the game was developed.
 
